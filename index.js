@@ -4,18 +4,20 @@
 /*
 Exercício 1
 Resposta: 
-console.log(10, 5);
+10
+10, 5
 */
 
 /*
 Exercício 2
 Resposta:
-console.log(10, 10, 10);
+10, 10, 10
 */
 
 /*
 Exercício 3
-Resposta: Estes comandos abrem uma caixa de diálogo com o usuário, permitindo que ele coloque uma informação.
+Resposta: Estes comandos abrem uma caixa de diálogo com o usuário, permitindo que ele coloque uma informação além
+de fazer um alerta exibindo o $ baseado nos valores digitados pelo usuário.
 Os nomes sugeridos são horasTrabalho e salarioDiario.
 */
 

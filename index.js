@@ -1,19 +1,22 @@
 
 // Exercícios de interpretação
+
 /*
 Exercício 1
-Resposta: 10, 5
+Resposta: 
+console.log(10, 5);
 */
 
 /*
 Exercício 2
-Resposta: 10, 10, 10
+Resposta:
+console.log(10, 10, 10);
 */
 
 /*
 Exercício 3
 Resposta: Estes comandos abrem uma caixa de diálogo com o usuário, permitindo que ele coloque uma informação.
-Os nomes sugeridos são horasTrabalho e salarioDiario
+Os nomes sugeridos são horasTrabalho e salarioDiario.
 */
 
 // Exercícios de escrita

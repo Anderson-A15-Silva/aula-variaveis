@@ -67,3 +67,16 @@ b = c; // b = 10
 
 console.log("O novo valor de b é", c);
 */
+
+/*
+Desafio
+
+const diaHoras = prompt("Quantas horas tem um dia?");
+console.log(diaHoras);
+
+const idadeAnos = prompt("Quantos anos você tem?");
+console.log(idadeAnos);
+
+var x = Number(diaHoras) + Number(idadeAnos);
+var y = Number(diaHoras) * Number(idadeAnos);
+*/

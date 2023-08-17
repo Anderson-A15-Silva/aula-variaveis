@@ -80,6 +80,9 @@ console.log(diaAnos);
 const idadeAnos = prompt("Quantos anos você tem?");
 console.log(idadeAnos);
 
-const resultado = diaAnos + idadeAnos;
-console.log(resultado);
+const resultadoUm = Number(diaAnos) + Number(idadeAnos);
+console.log(resultadoUm);
+
+const resultadoDois = Number(diaAnos) * Number(idadeAnos);
+console.log(resultadoDois);
 */

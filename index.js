@@ -41,12 +41,15 @@ console.log(typeof idade);
 Exercício 2
 Resposta: 
 
+console.log("Você gosta de música? (Sim/Não)");
 const perguntaMusica = prompt("Você gosta de música? (Sim/Não)");
 console.log(perguntaMusica)
 
+console.log("Você tem algum filme favorito? (Sim/Não)");
 const perguntaFilme = prompt("Você tem algum filme favorito? (Sim/Não)");
 console.log(perguntaFilme);
 
+console.log("Você nasceu no Brasil? (Sim/Não)");
 const perguntaPais = prompt("Você nasceu no Brasil? (Sim/Não)");
 console.log(perguntaPais);
 */
@@ -71,12 +74,12 @@ console.log("O novo valor de b é", c);
 /*
 Desafio
 
-const diaHoras = prompt("Quantas horas tem um dia?");
-console.log(diaHoras);
+const diaAnos = prompt("Quantas dias tem um ano?");
+console.log(diaAnos);
 
 const idadeAnos = prompt("Quantos anos você tem?");
 console.log(idadeAnos);
 
-var x = Number(diaHoras) + Number(idadeAnos);
-var y = Number(diaHoras) * Number(idadeAnos);
+const resultado = diaAnos + idadeAnos;
+console.log(resultado);
 */
